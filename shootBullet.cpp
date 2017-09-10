@@ -2,7 +2,7 @@
 #include<graphics.h>
 
 using namespace std;
-int ex = 300,ey=100;
+int ex = 302,ey=100;
 vector<pair<int,int>>bullet;
 
 void drawbullet(int x,int y)
